@@ -73,10 +73,10 @@ global.packname = "Sayu Bot Stickers\n\n\n\n\n\n\n\n\n\n🎫🎫🎫 " //ur stic
 global.author = "🎫 Xynels Design ✘" //ur sticker watermark author
 
 //Bot theme media
-global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
+global.thum = fs.readFileSync("./XeonMedia/theme/lol.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("./XeonMedia/theme/lol.jpg") //ur logo pic
 global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XeonMedia/theme/lol.jpg") //ur thumb pic
+global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
 global.premium = ['6285854337533'] //ur premium numbers
