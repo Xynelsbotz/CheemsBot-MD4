@@ -101,7 +101,7 @@ global.ntilink = []
 
 //omther
 global.sessionName = 'session'
-global.antitags = false
+global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
