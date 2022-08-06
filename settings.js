@@ -11,14 +11,14 @@
 //hai to, description me xeon ka yt channel
 // ka link paste kr dena as a cradit or github 
 //repo me bhi tag kardena baki jo
-//bhi karna hai apki marzi, thank you!🦄
+//bhi karna hai apki marzi, thank you!🎫
 //════════════════════════════//
 //If you recode and uploading on your channel
 //or copy pasting the codes in ur script, 
 //i give permission to do as long as you
 //put Xeons youtube channel link in the video
 //description and tag me on githuh repo, 
-//thank you🦄
+//thank you🎫
 //════════════════════════════//
 
 const fs = require('fs')
@@ -39,7 +39,7 @@ global.APIKeys = {
 global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
-global.autoRecord = false //auto recording (true to on, false to off)
+global.autoRecord = true //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 //semt menu variants
@@ -55,7 +55,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['6285854337533'] //ur owner number
-global.ownername = "🎫 Xynels Design" //ur owner name
+global.ownername = "🎫 Xynels Design ✘" //ur owner name
 global.ytname = "YT: Xynels Design" //ur yt chanel name
 global.socialm = "GitHub: Xynelsbotz" //ur github or insta name
 global.location = "Indonesia, Mizoram, Aizawl" //ur location
@@ -63,14 +63,14 @@ global.location = "Indonesia, Mizoram, Aizawl" //ur location
 //bot bomdy 
 global.owner = ['6285854337533']
 global.ownertag = '6285854337533' //ur tag number
-global.botname = 'Sayu-Ogiwara🌸' //ur bot name
+global.botname = 'ᥫ᭡Sayu-Ogiwara🌸' //ur bot name
 global.linkz = "https://xynelsdesign.carrd.co/" //your theme url which will be displayed on whatsapp
-global.websitex = "https://github.com/Xynelsbotz" //ur website to be displayed
-global.botscript = '(PRIVATE)' //script link
+global.websitex = "https://youtube.com/XYNELSDESIGN" //ur website to be displayed
+global.botscript = 'https://github.com/Xynelsbotz' //script link
 global.reactmoji = "😎" //ur menu react emoji
 global.themeemoji = "🎫" //ur theme emoji
 global.packname = "Sayu Bot Stickers\n\n\n\n\n\n\n\n\n\n🎫🎫🎫 " //ur sticker watermark packname
-global.author = "🎫 Xynels Design" //ur sticker watermark author
+global.author = "🎫 Xynels Design ✘" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
